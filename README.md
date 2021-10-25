@@ -8,3 +8,9 @@
 
 
 
+### 1. python
+
+[01_split_data_in_a_column.ipynb](https://github.com/JuheePak/Pre_processing/blob/master/python/01_split_data_in_a_column.ipynb)
+
+
+
