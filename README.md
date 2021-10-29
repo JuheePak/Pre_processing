@@ -12,5 +12,5 @@
 
 [01_split_data_in_a_column.ipynb](https://github.com/JuheePak/Pre_processing/blob/master/python/01_split_data_in_a_column.ipynb)
 
-
+[02_finding_keyword_using_contains_method.ipynb](https://github.com/JuheePak/Pre_processing/blob/master/python/02_finding_keyword_using_contains_method.ipynb)
 
