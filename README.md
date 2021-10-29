@@ -14,3 +14,5 @@
 
 [02_finding_keyword_using_contains_method.ipynb](https://github.com/JuheePak/Pre_processing/blob/master/python/02_finding_keyword_using_contains_method.ipynb)
 
+[03_how_to_use_replace_method.ipynb](https://github.com/JuheePak/Pre_processing/blob/master/python/03_how_to_use_replace_method.ipynb)
+
